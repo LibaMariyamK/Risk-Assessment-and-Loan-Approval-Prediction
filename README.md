@@ -105,4 +105,8 @@ Then open your browser and go to:
 
 ---
 
+## Acknowledgments
 
+Special thanks to [@SHAHMACP](https://github.com/SHAHMACP) for the guidance and support throughout this project. 🙌
+
+---
