@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction Project
+# 🏦 Risk Assessment & Loan Approval Prediction
 
 A Flask-based web app that predicts **Risk Score (regression)** and **Loan Approval (classification)** based on financial and personal data.
 
