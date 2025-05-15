@@ -39,7 +39,7 @@ Loan-Approval-Predictor/
 ├── requirements.txt
 ├── Loan.csv              # Dataset
 ├── EDA.ipynb             # Full analysis and experimentation
-└── model.ipynb     # Final selected models for deployment
+└── model.ipynb           # Final selected models for deployment
 
 ````
 
